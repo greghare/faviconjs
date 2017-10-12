@@ -2,6 +2,12 @@
 A small javascript library for adding favicons to HTML links
 
 ## Usage
+### Include favicon.js just before the </body> closing tag
+```html
+<script type="text/javascript" src="favicon.js"></script>
+```
+
+### Add an anchor tag using class="favicon"
 ```html
 <a class="favicon" href="http://facebook.com">facebook.com</a>
 ```
