@@ -12,7 +12,8 @@ A small javascript library for adding favicons to HTML links
 <a class="favicon" href="http://facebook.com">facebook.com</a>
 ```
 ## Demo
-To view a demonstration and usage information click here
+To view a demonstration and usage information click the following link  
+
 [Demo](http://greghare.me/faviconjs)
 
 ## License
