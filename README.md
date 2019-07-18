@@ -14,7 +14,7 @@ A small javascript library for adding favicons to HTML links
 ## Demo
 To view a demonstration and usage information click the following link  
 
-[Demo](http://greghare.me/faviconjs)
+[Demo](http://greghare.me/projects/faviconjs)
 
 ## License
 Licensed under the MIT license.
